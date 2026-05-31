@@ -1,0 +1,6 @@
+{
+  "name": "Leandro LAPS",
+  "description": "Descubra e baixe os melhores jogos mobile de 2026 para Android e iOS, incluindo títulos raros e exclusivos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
